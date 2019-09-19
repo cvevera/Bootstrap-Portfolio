@@ -64,26 +64,6 @@ h1 {
 
 p {color: #777777}
 
-/* article {
-
-	font-size: 12pt;
-	width:960px;
-	box-align: center;
-	background-color: #ffffff;
-	margin-right: auto;
-    margin-left: auto;
-    margin-top: 15px;
-    margin-bottom: 15px;
-	padding: 32px;
-	height: 100%;
-} */
-
-/* img {
-	float: left;
-	margin:0 16px 16px 0;
-} */
-
-
 footer {
 
 	width:100%;
@@ -100,14 +80,9 @@ footer {
 .navbar-text {
 
     font-size: 19pt;
-    /* position: absolute;
-    float: left; */
     color: white;
     background-color: #4aaaa5;}
-    /* top: 3px;
-    left: 260px;
-    padding: 20px;
-} */
+
 
 
 .About {
@@ -171,9 +146,7 @@ button:hover {background-color: #c6dbda}
     color: white;
     background-color: #4aaaa5;
     text-align: center;
-    /* position: absolute; */
     display: block;
-    /* margin-top: 110px;  */
     width: 300px;
     height: 30px;
 
@@ -192,38 +165,4 @@ button:hover {background-color: #c6dbda}
     margin-bottom: 15px;
     box-align: center;
     overflow: auto;
-        /* display: flex;
-        flex-flow: row wrap;
-        justify-content: flex-end;
-} */
-
-/* #projects-1 {
-    position: relative;
 }
-
-#projects-2 {
-    position: absolute;
-    bottom: 144px;
-}
-
-#projects-3 {
-    position: absolute;
-    bottom: -38px;
-}
-
-#projects-4 {
-    position: absolute;
-    right: 500px
-} */ */
-
-/* #projects-5 {
-    position: absolute;
-    bottom: 144px;
-    right: 500px
-}
-
-.container-portfolio {
-    float: left;
-    display: block;
-} */
-
